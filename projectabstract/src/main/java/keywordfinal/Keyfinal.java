@@ -1,6 +1,6 @@
 package keywordfinal;
 
-/*public class Keyfinal {
+public class Keyfinal {
 final int f=10;
 	public void display()
 	{
@@ -13,4 +13,4 @@ final int f=10;
 
 	}
 
-}*/
+}

@@ -3,7 +3,7 @@ package polymorphism;
 public class Compiletimepoly {
 	public void display()
 	{
-		System.out.println("Polymorphsm");
+		System.out.println("Polymorphism");
 		
 	}
 	public int display(int a)
